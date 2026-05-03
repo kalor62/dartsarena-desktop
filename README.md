@@ -4,9 +4,9 @@
 
 **Most między tarczą Autodarts a [DartsArena.pl](https://dartsarena.pl)**
 
-[![Latest Release](https://img.shields.io/github/v/release/kalor62/dartsarena-desktop?label=wersja&color=blue)](https://github.com/kalor62/dartsarena-desktop/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/kalor62/dartsarena-desktop/total?label=pobrania&color=green)](https://github.com/kalor62/dartsarena-desktop/releases)
-[![Platforms](https://img.shields.io/badge/platforma-macOS_%7C_Windows_%7C_Linux-orange)](#-pobieranie)
+[![Latest Release](https://img.shields.io/github/v/release/kalor62/dartsarena-desktop?style=for-the-badge&label=wersja&color=2563eb)](https://github.com/kalor62/dartsarena-desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/kalor62/dartsarena-desktop/total?style=for-the-badge&label=pobrania&color=16a34a)](https://github.com/kalor62/dartsarena-desktop/releases)
+[![Platforms](https://img.shields.io/badge/platforma-macOS%20%7C%20Windows%20%7C%20Linux-orange?style=for-the-badge)](#-pobieranie)
 
 </div>
 
