@@ -27,8 +27,8 @@ Dzięki niej Twoja tarcza Autodarts automatycznie wysyła rzuty do gier online, 
 
 | Procesor | Pobierz |
 |----------|---------|
-| **Apple Silicon** (M1/M2/M3/M4) | **[⬇️ Pobierz dla Maca z Apple Silicon](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.1-arm64.dmg)** |
-| **Intel** | **[⬇️ Pobierz dla Maca Intel](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.1.dmg)** |
+| **Apple Silicon** (M1/M2/M3/M4) | **[⬇️ Pobierz dla Maca z Apple Silicon](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.2-arm64.dmg)** |
+| **Intel** | **[⬇️ Pobierz dla Maca Intel](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.2.dmg)** |
 
 > 💡 Nie wiesz który Mac masz? Menu **Apple () → About This Mac**. Jeśli widzisz **"Apple M1/M2/M3/M4"** — Apple Silicon. Jeśli **"Intel"** — Intel.
 
@@ -36,8 +36,8 @@ Dzięki niej Twoja tarcza Autodarts automatycznie wysyła rzuty do gier online, 
 
 | Wariant | Pobierz |
 |---------|---------|
-| **Installer** (zalecane) | **[⬇️ Pobierz instalator Windows](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/dartsarena-desktop-0.1.1-setup.exe)** |
-| **Portable** (bez instalacji) | **[⬇️ Pobierz wersję portable](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.1.exe)** |
+| **Installer** (zalecane) | **[⬇️ Pobierz instalator Windows](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/dartsarena-desktop-0.1.2-setup.exe)** |
+| **Portable** (bez instalacji) | **[⬇️ Pobierz wersję portable](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.2.exe)** |
 
 > ⚠️ **Windows SmartScreen** może pokazać ostrzeżenie ("Windows protected your PC") — kliknij **"More info" → "Run anyway"**. To normalne dla aplikacji bez płatnego certyfikatu EV, aplikacja jest bezpieczna.
 
@@ -45,7 +45,7 @@ Dzięki niej Twoja tarcza Autodarts automatycznie wysyła rzuty do gier online, 
 
 | Format | Pobierz |
 |--------|---------|
-| **AppImage** (uniwersalny) | **[⬇️ Pobierz AppImage](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.1.AppImage)** |
+| **AppImage** (uniwersalny) | **[⬇️ Pobierz AppImage](https://github.com/kalor62/dartsarena-desktop/releases/latest/download/DartsArena-Desktop-0.1.2.AppImage)** |
 
 > 💡 Po pobraniu nadaj uprawnienia do uruchomienia:
 > ```bash
